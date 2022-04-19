@@ -5,7 +5,12 @@
   
   
 */
-  
+
+
+/*
+ Max value of analogWrite 0-255
+ Max value of analogRead 0-1023
+ */
 
 // Motor A
 

@@ -69,20 +69,18 @@ void loop()
   {
   
     Rotate(+1);
-    digitalWrite(green,HIGH);
-    digitalWrite(red,LOW);
+   
       
   }
   
   
   if(photoval<350) {
 
-    while ( photoval=<1000)
+  
     
-    {
+ 
       Rotate (-1)
-      digitalWrite(green,LOW);
-      digitalWrite(red,HIGH);
+    
     }
   
   }
