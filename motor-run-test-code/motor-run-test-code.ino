@@ -11,9 +11,16 @@ int motor7=7 ;
 void setup()
 {
   pinMode(photores, INPUT);
+  
   Serial.begin(9600);
   pinMode(red,OUTPUT);
   pinMode(green,OUTPUT);
+
+  
+  pinMode(motor4, OUTPUT);
+  pinMode(motor5, OUTPUT);
+  pinMode(motor6, OUTPUT);
+  pinMode(motor7, OUTPUT);
 }
 
 void loop()
