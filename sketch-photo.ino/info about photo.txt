@@ -1,0 +1,3 @@
+to use any photo resisitor with arduino we need its voltage value that it sends so before developing the final ciruit we need an intermediate ciruit 
+to experimental find the values of voltages it sends for that we use the circuit in photocheck png and pdf(for schematic diagram )
+now after finding the experimental values we can develop the final ciruit. in my final ciruit i have connected two different coloured leds and used 350 as an example voltage value shown in photo final png and pdf 
