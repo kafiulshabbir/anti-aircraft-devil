@@ -1,1 +1,2 @@
-# God bless the United States of America !!!
+I have implemented what I understood from what you wrote Kafi, but it's unclear to me in what situation exactly would you want the motor to stop and/or 
+change rotation, I have put "..." in the argument of my if statements from the code, please let me know what I need to do, please and thank you.
