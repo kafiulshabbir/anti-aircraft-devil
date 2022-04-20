@@ -1,0 +1,13 @@
+Meeting-01: 11.04.2022, 20:05 - 20:55
+
+Test-01: Testing and controability of motor drivers from arduino. Partial success in rotating motors due to absence of stable-voltage power supply. Successful testing to potential difference reversals at the output ports.
+
+
+Meeting-02: 15.04.2022, 21:30 - 23:00
+
+Installation and demonstration of git.
+
+Meeting-03: 19.04.2022, 18:30 - 21:30
+
+Test-02: Bhuvan's test of serial monitor output of potential difference accross a photoresistor.
+Test-03: LED pointing the photo resistor with higher energy influx. With additional serial monitor display. Video created.

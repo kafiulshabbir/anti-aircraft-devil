@@ -1,6 +1,0 @@
-I have implemented what I understood from what you wrote Kafi, but it's unclear to me in what situation exactly would you want the motor to stop and/or 
-change rotation, I have put "..." in the argument of my if statements from the code, please let me know what I need to do, please and thank you.
-
-Kafi 19.04.22 No, the code does not make sense
-
-check comments in the file
