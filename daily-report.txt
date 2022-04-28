@@ -11,3 +11,11 @@ Meeting-03: 19.04.2022, 18:30 - 21:30
 
 Test-02: Bhuvan's test of serial monitor output of potential difference accross a photoresistor.
 Test-03: LED pointing the photo resistor with higher energy influx. With additional serial monitor display. Video created.
+
+Meeting-04: 20.04.2022, 18:00 - 22:00
+
+Establishment of structure, soldering of motors, searching of materials. 
+
+Meeting - 05: 26.04.2022, 18:30 - 22:30
+
+Set up of circuit of the photoresistors, creation of shadow chamber for the photoresistors. Soldering of switches. Painting of the wheels.
