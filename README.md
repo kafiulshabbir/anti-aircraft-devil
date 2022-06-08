@@ -5,3 +5,5 @@ In the name of holy mary, mother of jesus (eventough, I am a Jew, ehehe). This m
 Soon!, they shall be equiped with hypersonic missiles. I hereby dare enemy pilots to fly over my house, you shall reach the heavens occupied by the devil and jesus even before you can realize the beauty of our machine and piss in your pants.
 
 ![photo_2022-05-28_18-48-51](https://user-images.githubusercontent.com/58966086/172533020-0aa22adb-8679-4f7d-a242-8706e6abbf12.jpg)
+
+Jokes aside, this project was used as a General Physics: Electricity and Magnetism and General Physics: Quantum Physics in Moscow Institute of Physics and Technology. First demonstrated on 30.05.2022.
