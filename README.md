@@ -1,4 +1,4 @@
-# arduino-airplane-mipt
+# anti-aircraft-devil 
 
 In the name of holy mary, mother of jesus (eventough, I am a Jew, ehehe). This machinery shall threby be developed by the most talented intellectually seductive humans inorder to apply the most advanced algorithms to aim at enemy aircrafts and destroy them (god bless the pilot). Currently the algorithms and designs are tested on a model operating on Arduino using photoresistors and phototransistors. 
 
